@@ -1,0 +1,11 @@
+{
+  "name": "node-remote-api-spotify",
+  "version": "0.1.0",
+  "description": "Spotify remote for Node Remote API",
+  "main": "src/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
